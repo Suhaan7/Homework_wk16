@@ -1,11 +1,11 @@
-package com.parabank.utility;
+package uk.cv.library.utility;
 
 import com.google.common.base.Function;
-import com.parabank.browserfactory.ManageBrowser;
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.*;
+import uk.cv.library.browserfactory.ManageBrowser;
 
 import java.io.File;
 import java.io.IOException;
@@ -312,7 +312,7 @@ public class Utility extends ManageBrowser {
      * This method will take screenshot
      */
     public static void takeScreenShot() {
-        String filePath = System.getProperty("user.dir") + "/src/main/java/com/parabank/demo/screenshots/";
+        String filePath = System.getProperty("user.dir") + "/src/main/java/uk/cv/library/demo/screenshots/";
         TakesScreenshot screenshot = (TakesScreenshot) driver;
         File scr1 = screenshot.getScreenshotAs(OutputType.FILE);
         try {
@@ -333,7 +333,7 @@ public class Utility extends ManageBrowser {
         File source = ts.getScreenshotAs(OutputType.FILE);
 
         // After execution, you could see a folder "FailedTestsScreenshots" under screenshot folder
-        String destination = System.getProperty("user.dir") + "/src/main/java/com/parabank/screenshots/" + screenshotName + dateName + ".png";
+        String destination = System.getProperty("user.dir") + "/src/main/java/uk/cv/library/screenshots/" + screenshotName + dateName + ".png";
         File finalDestination = new File(destination);
         try {
             FileUtils.copyFile(source, finalDestination);

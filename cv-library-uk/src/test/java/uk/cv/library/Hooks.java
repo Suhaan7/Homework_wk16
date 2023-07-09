@@ -1,11 +1,11 @@
-package com.parabank;
+package uk.cv.library;
 
 import com.cucumber.listener.Reporter;
-import com.parabank.propertyreader.PropertyReader;
-import com.parabank.utility.Utility;
 import cucumber.api.Scenario;
 import cucumber.api.java.After;
 import cucumber.api.java.Before;
+import uk.cv.library.propertyreader.PropertyReader;
+import uk.cv.library.utility.Utility;
 
 import java.io.IOException;
 

@@ -10,61 +10,99 @@ import org.testng.Reporter;
 import uk.cv.library.utility.Utility;
 
 
-public class LoginPage extends Utility {
+public class HomePage extends Utility {
 
-    private static final Logger log = LogManager.getLogger(LoginPage.class.getName());
+    private static final Logger log = LogManager.getLogger(HomePage.class.getName());
 
-    public LoginPage() {
+    public HomePage() {
         PageFactory.initElements(driver, this);
     }
 
     @CacheLookup
-    @FindBy(xpath = "//input[@name='username']")
-    WebElement enterUsername;
+    @FindBy(xpath = "//input[@id='keywords']")
+    WebElement JobTitle;
 
     @CacheLookup
-    @FindBy(xpath = "//input[@name='password']")
-    WebElement enterPassword;
+    @FindBy(css ="div[class='home-search hps-transition'] input[name='geo']" )
+    WebElement Location;
 
     @CacheLookup
-    @FindBy(xpath = "//input[@value='Log In']")
-    WebElement loginButton;
+    @FindBy(xpath = "//select[@id='distance']")
+    WebElement distanceDropDown;
 
     @CacheLookup
-    @FindBy(xpath = "//p[@class='error']")
-    WebElement errorMessage;
+    @FindBy(xpath = "//button[@id='toggle-hp-search']")
+    WebElement moreSearchOptionsLink;
 
     @CacheLookup
-    @FindBy(xpath = "//a[normalize-space()='Log Out']")
-    WebElement logoutButton;
+    @FindBy(xpath = "//input[@id='salarymin']")
+    WebElement salaryMin;
 
     @CacheLookup
-    @FindBy(xpath = "//h2[normalize-space()='Customer Login']")
-    WebElement customerLoginText;
+    @FindBy(xpath = "//input[@id='salarymax']")
+    WebElement salaryMax;
 
-    public void enterUserName(String userName) {
-        Reporter.log("Click on Username" + userName.toString() + "<br>");
-        enterUsername.sendKeys(userName);
+    @CacheLookup
+    @FindBy(xpath = "//select[@id='salarytype']")
+    WebElement salaryTypeDropDown;
+    @CacheLookup
+    @FindBy(xpath = "//select[@id='tempperm']")
+    WebElement jobTypeDropDown;
+    @CacheLookup
+    @FindBy(xpath = "//input[@id='hp-search-btn']")
+    WebElement findJobsBtn;
+
+    @CacheLookup
+    @FindBy(xpath = "")
+    WebElement verifyTheResults;
+
+    public void enterJobTitle(String jobtitle) {
+        log.info("Enter Job Title`" + JobTitle.toString() + "<br>");
+       sendTextToElement(JobTitle,jobtitle);
     }
 
-    public void enterPassword(String Password) {
-        Reporter.log("Click on Password" + Password.toString() + "<br>");
-        enterPassword.sendKeys(Password);
+    public void enterLocation(String location) {
+        log.info("Enter Location: " + Location.toString());
+        sendTextToElement(Location,location);
     }
 
-    public void clickOnLoginButton() {
-        clickOnElement(loginButton);
+    public void selectDistanceDropDown(String distance) {
+        selectByVisibleTextFromDropDown(distanceDropDown, distance);
     }
 
-    public String verifyErrorMessage() {
-        log.info("Verify Error Message: " + errorMessage.toString());
-        return getTextFromElement(errorMessage);
+    public void clickOnMoreSearchOptionsLink() {
+        clickOnElement(moreSearchOptionsLink);
     }
-    public void clickOnLogoutButton() {
-        clickOnElement(logoutButton);
+
+    public void enterMinSalary(String minSalary) {
+        log.info("Enter Salary Min" + salaryMin.toString() + "<br>");
+        sendTextToElement(salaryMin,minSalary);
     }
-    public String verifyCustomerLoginText() {
-        log.info("Verify Error Message: " + customerLoginText.toString());
-        return getTextFromElement(customerLoginText);
+
+    public void enterMaxSalary(String maxSalary) {
+        log.info("Enter Salary Max" + salaryMax.toString() + "<br>");
+        sendTextToElement(salaryMax,maxSalary);
     }
+
+    public void selectSalaryType(String salaryType) {
+        log.info("Select Salary Type" + salaryTypeDropDown.toString() + "<br>");
+        selectByVisibleTextFromDropDown(salaryTypeDropDown,salaryType);
+    }
+
+    public void selectJobType(String jobType) {
+        log.info("Select Job Type" + jobTypeDropDown.toString() + "<br>");
+        selectByVisibleTextFromDropDown(jobTypeDropDown, jobType);
+
+    }
+    public void clickOnFindJobsBtn() {
+        Reporter.log("Click on Find Jobs Button" + findJobsBtn.toString() + "<br>");
+        findJobsBtn.click();
+    }
+
+
+    public String verifyTheResults() {
+        log.info("Verify Results: " + verifyTheResults.toString());
+        return getTextFromElement(verifyTheResults);
+    }
+
 }

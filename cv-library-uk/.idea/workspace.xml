@@ -1,12 +1,138 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf1cfff6-6d46-4ff1-a36a-f3e85325e290" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Homework_wk16.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.parabank/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.parabank/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.parabank/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.parabank/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.parabank/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.parabank/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.parabank/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.parabank/src/main/java/com/parabank/browserfactory/ManageBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.parabank/src/main/java/com/parabank/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.parabank/src/main/java/com/parabank/pages/RegisterPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.parabank/src/main/java/com/parabank/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.parabank/src/main/java/com/parabank/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.parabank/src/test/java/com/parabank/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.parabank/src/test/java/com/parabank/runner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.parabank/src/test/java/com/parabank/steps/LoginSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.parabank/src/test/java/com/parabank/steps/RegisterSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.parabank/src/test/java/resources/extentreport/extent-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.parabank/src/test/java/resources/featurefile/login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.parabank/src/test/java/resources/featurefile/register.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.parabank/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.parabank/src/test/java/resources/propertiesfile/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/cv/library/browserfactory/ManageBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/cv/library/logs/log.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/cv/library/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/cv/library/pages/ResultPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/cv/library/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/cv/library/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/extentreport/extent-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/featurefile/homepage.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/propertiesfile/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uk/cv/library/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uk/cv/library/runner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uk/cv/library/steps/JobSearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/gov/uk/check/visa/browserfactory/ManageBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/gov/uk/check/visa/logs/log.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/gov/uk/check/visa/pages/DurationOfStayPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/gov/uk/check/visa/pages/ReasonForTravelPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/gov/uk/check/visa/pages/ResultPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/gov/uk/check/visa/pages/SelectNationalityPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/gov/uk/check/visa/pages/StartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/gov/uk/check/visa/pages/WorkTypePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/gov/uk/check/visa/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/main/java/gov/uk/check/visa/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/VisaConfirmationTestSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/gov/uk/check/visa/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/gov/uk/check/visa/runner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/resources/extentreport/extent-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/resources/featurefile/visaconfirmationtest.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-office-visa-check/src/test/java/resources/propertiesfile/log4j2.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2S6cctqjBgzArdl99q1NUoWcUux" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/HOMEWORK/Homework_wk16/cv-library-uk/src/test/java&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\HOMEWORK\Homework_wk16\cv-library-uk\src\test\java" />
+      <recent name="C:\HOMEWORK\Homework_wk16\cv-library-uk\src\test\java\uk\cv\library" />
+      <recent name="C:\HOMEWORK\Homework_wk16\cv-library-uk\src\main\java\uk\cv\library" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="uk.cv.library" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cv-library-uk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.cv.library.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uk.cv.library.runner" />
+      <option name="MAIN_CLASS_NAME" value="uk.cv.library.runner.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="bf1cfff6-6d46-4ff1-a36a-f3e85325e290" name="Changes" comment="" />
       <created>1686474870158</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />

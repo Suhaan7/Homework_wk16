@@ -32,3 +32,122 @@
 2023-07-04 01:07:701 INFO  ManageBrowser :33 - launching chrome browser
 2023-07-04 01:07:86 INFO  RegisterPage :78 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (c85469218ac75c01f330a4e92ca32606)] -> link text: Register]
 2023-07-04 01:07:425 INFO  RegisterPage :82 - Get text from : [[ChromeDriver: chrome on WINDOWS (c85469218ac75c01f330a4e92ca32606)] -> xpath: //h1[@class='title']]
+2023-07-05 00:07:354 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:182 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:586 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:310 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:41 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:07 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:46 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:894 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:72 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:708 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:664 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:753 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:637 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:322 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:61 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:999 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:171 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:506 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:337 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:447 INFO  HomePage :65 - Enter Location: Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='home-search hps-transition'] input[name='geo']'
+2023-07-05 00:07:847 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:661 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:396 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:232 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:51 INFO  HomePage :65 - Enter Location: [[ChromeDriver: chrome on WINDOWS (0b2d66d6beecee841061ed6b56c7af8c)] -> css selector: div[class='home-search hps-transition'] input[name='geo']]
+2023-07-05 00:07:695 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:654 INFO  HomePage :65 - Enter Location: [[ChromeDriver: chrome on WINDOWS (2b28c39b1344474e4334855d2cd3b494)] -> css selector: div[class='home-search hps-transition'] input[name='geo']]
+2023-07-05 00:07:520 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:693 INFO  HomePage :65 - Enter Location: [[ChromeDriver: chrome on WINDOWS (41e576623418443a8a205592aa8ce37b)] -> css selector: div[class='home-search hps-transition'] input[name='geo']]
+2023-07-05 00:07:09 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:756 INFO  HomePage :65 - Enter Location: [[ChromeDriver: chrome on WINDOWS (aebecfe49693926a495ee52faf4c2376)] -> css selector: div[class='home-search hps-transition'] input[name='geo']]
+2023-07-05 00:07:676 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:608 INFO  HomePage :65 - Enter Location: [[ChromeDriver: chrome on WINDOWS (09aa2cf2955dfa72809598b6bf9cb3d0)] -> css selector: div[class='home-search hps-transition'] input[name='geo']]
+2023-07-05 00:07:929 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:837 INFO  HomePage :65 - Enter Location: [[ChromeDriver: chrome on WINDOWS (3cb723ce585e344d67bd23e41e82f774)] -> css selector: div[class='home-search hps-transition'] input[name='geo']]
+2023-07-05 00:07:93 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:733 INFO  HomePage :60 - Enter Job Title`[[ChromeDriver: chrome on WINDOWS (e2ca55222bf4359e2cb3008a2cd2a17d)] -> xpath: //input[@id='keywords']]<br>
+2023-07-05 00:07:922 INFO  HomePage :65 - Enter Location: [[ChromeDriver: chrome on WINDOWS (e2ca55222bf4359e2cb3008a2cd2a17d)] -> css selector: div[class='home-search hps-transition'] input[name='geo']]
+2023-07-05 00:07:354 INFO  HomePage :78 - Enter Salary Min[[ChromeDriver: chrome on WINDOWS (e2ca55222bf4359e2cb3008a2cd2a17d)] -> xpath: //input[@id='salarymin']]<br>
+2023-07-05 00:07:512 INFO  HomePage :83 - Enter Salary Max[[ChromeDriver: chrome on WINDOWS (e2ca55222bf4359e2cb3008a2cd2a17d)] -> xpath: //input[@id='salarymax']]<br>
+2023-07-05 00:07:645 INFO  HomePage :88 - Select Salary Type[[ChromeDriver: chrome on WINDOWS (e2ca55222bf4359e2cb3008a2cd2a17d)] -> xpath: //select[@id='salarytype']]<br>
+2023-07-05 00:07:782 INFO  HomePage :93 - Select Job Type[[ChromeDriver: chrome on WINDOWS (e2ca55222bf4359e2cb3008a2cd2a17d)] -> xpath: //select[@id='tempperm']]<br>
+2023-07-05 00:07:798 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:285 INFO  HomePage :60 - Enter Job Title`[[ChromeDriver: chrome on WINDOWS (47074285bff00d70c3a44e365b833809)] -> xpath: //input[@id='keywords']]<br>
+2023-07-05 00:07:459 INFO  HomePage :65 - Enter Location: [[ChromeDriver: chrome on WINDOWS (47074285bff00d70c3a44e365b833809)] -> css selector: div[class='home-search hps-transition'] input[name='geo']]
+2023-07-05 00:07:898 INFO  HomePage :78 - Enter Salary Min[[ChromeDriver: chrome on WINDOWS (47074285bff00d70c3a44e365b833809)] -> xpath: //input[@id='salarymin']]<br>
+2023-07-05 00:07:47 INFO  HomePage :83 - Enter Salary Max[[ChromeDriver: chrome on WINDOWS (47074285bff00d70c3a44e365b833809)] -> xpath: //input[@id='salarymax']]<br>
+2023-07-05 00:07:159 INFO  HomePage :88 - Select Salary Type[[ChromeDriver: chrome on WINDOWS (47074285bff00d70c3a44e365b833809)] -> xpath: //select[@id='salarytype']]<br>
+2023-07-05 00:07:276 INFO  HomePage :93 - Select Job Type[[ChromeDriver: chrome on WINDOWS (47074285bff00d70c3a44e365b833809)] -> xpath: //select[@id='tempperm']]<br>
+2023-07-05 00:07:405 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:534 INFO  HomePage :60 - Enter Job Title`[[ChromeDriver: chrome on WINDOWS (b729f170a1f0ec9b514b84b9f260dc39)] -> xpath: //input[@id='keywords']]<br>
+2023-07-05 00:07:734 INFO  HomePage :65 - Enter Location: [[ChromeDriver: chrome on WINDOWS (b729f170a1f0ec9b514b84b9f260dc39)] -> css selector: div[class='home-search hps-transition'] input[name='geo']]
+2023-07-05 00:07:128 INFO  HomePage :78 - Enter Salary Min[[ChromeDriver: chrome on WINDOWS (b729f170a1f0ec9b514b84b9f260dc39)] -> xpath: //input[@id='salarymin']]<br>
+2023-07-05 00:07:262 INFO  HomePage :83 - Enter Salary Max[[ChromeDriver: chrome on WINDOWS (b729f170a1f0ec9b514b84b9f260dc39)] -> xpath: //input[@id='salarymax']]<br>
+2023-07-05 00:07:372 INFO  HomePage :88 - Select Salary Type[[ChromeDriver: chrome on WINDOWS (b729f170a1f0ec9b514b84b9f260dc39)] -> xpath: //select[@id='salarytype']]<br>
+2023-07-05 00:07:490 INFO  HomePage :93 - Select Job Type[[ChromeDriver: chrome on WINDOWS (b729f170a1f0ec9b514b84b9f260dc39)] -> xpath: //select[@id='tempperm']]<br>
+2023-07-05 00:07:847 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:877 INFO  HomePage :60 - Enter Job Title`[[ChromeDriver: chrome on WINDOWS (e7a62fd248b6efa00cbf6bbc73c4e91c)] -> xpath: //input[@id='keywords']]<br>
+2023-07-05 00:07:52 INFO  HomePage :65 - Enter Location: [[ChromeDriver: chrome on WINDOWS (e7a62fd248b6efa00cbf6bbc73c4e91c)] -> css selector: div[class='home-search hps-transition'] input[name='geo']]
+2023-07-05 00:07:380 INFO  HomePage :78 - Enter Salary Min[[ChromeDriver: chrome on WINDOWS (e7a62fd248b6efa00cbf6bbc73c4e91c)] -> xpath: //input[@id='salarymin']]<br>
+2023-07-05 00:07:535 INFO  HomePage :83 - Enter Salary Max[[ChromeDriver: chrome on WINDOWS (e7a62fd248b6efa00cbf6bbc73c4e91c)] -> xpath: //input[@id='salarymax']]<br>
+2023-07-05 00:07:645 INFO  HomePage :88 - Select Salary Type[[ChromeDriver: chrome on WINDOWS (e7a62fd248b6efa00cbf6bbc73c4e91c)] -> xpath: //select[@id='salarytype']]<br>
+2023-07-05 00:07:785 INFO  HomePage :93 - Select Job Type[[ChromeDriver: chrome on WINDOWS (e7a62fd248b6efa00cbf6bbc73c4e91c)] -> xpath: //select[@id='tempperm']]<br>
+2023-07-05 00:07:658 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:846 INFO  HomePage :60 - Enter Job Title`[[ChromeDriver: chrome on WINDOWS (88d8861c97c8e8954f2c7bef11e6dc6b)] -> xpath: //input[@id='keywords']]<br>
+2023-07-05 00:07:25 INFO  HomePage :65 - Enter Location: [[ChromeDriver: chrome on WINDOWS (88d8861c97c8e8954f2c7bef11e6dc6b)] -> css selector: div[class='home-search hps-transition'] input[name='geo']]
+2023-07-05 00:07:530 INFO  HomePage :78 - Enter Salary Min[[ChromeDriver: chrome on WINDOWS (88d8861c97c8e8954f2c7bef11e6dc6b)] -> xpath: //input[@id='salarymin']]<br>
+2023-07-05 00:07:677 INFO  HomePage :83 - Enter Salary Max[[ChromeDriver: chrome on WINDOWS (88d8861c97c8e8954f2c7bef11e6dc6b)] -> xpath: //input[@id='salarymax']]<br>
+2023-07-05 00:07:778 INFO  HomePage :88 - Select Salary Type[[ChromeDriver: chrome on WINDOWS (88d8861c97c8e8954f2c7bef11e6dc6b)] -> xpath: //select[@id='salarytype']]<br>
+2023-07-05 00:07:890 INFO  HomePage :93 - Select Job Type[[ChromeDriver: chrome on WINDOWS (88d8861c97c8e8954f2c7bef11e6dc6b)] -> xpath: //select[@id='tempperm']]<br>
+2023-07-05 00:07:882 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:278 INFO  HomePage :60 - Enter Job Title`[[ChromeDriver: chrome on WINDOWS (8574d8feea7c597f4f39d2a8f22beb63)] -> xpath: //input[@id='keywords']]<br>
+2023-07-05 00:07:427 INFO  HomePage :65 - Enter Location: [[ChromeDriver: chrome on WINDOWS (8574d8feea7c597f4f39d2a8f22beb63)] -> css selector: div[class='home-search hps-transition'] input[name='geo']]
+2023-07-05 00:07:963 INFO  HomePage :78 - Enter Salary Min[[ChromeDriver: chrome on WINDOWS (8574d8feea7c597f4f39d2a8f22beb63)] -> xpath: //input[@id='salarymin']]<br>
+2023-07-05 00:07:124 INFO  HomePage :83 - Enter Salary Max[[ChromeDriver: chrome on WINDOWS (8574d8feea7c597f4f39d2a8f22beb63)] -> xpath: //input[@id='salarymax']]<br>
+2023-07-05 00:07:237 INFO  HomePage :88 - Select Salary Type[[ChromeDriver: chrome on WINDOWS (8574d8feea7c597f4f39d2a8f22beb63)] -> xpath: //select[@id='salarytype']]<br>
+2023-07-05 00:07:345 INFO  HomePage :93 - Select Job Type[[ChromeDriver: chrome on WINDOWS (8574d8feea7c597f4f39d2a8f22beb63)] -> xpath: //select[@id='tempperm']]<br>
+2023-07-05 00:07:152 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:149 INFO  HomePage :60 - Enter Job Title`[[ChromeDriver: chrome on WINDOWS (e809d4b1ddf58b5a85e9e6fd88327096)] -> xpath: //input[@id='keywords']]<br>
+2023-07-05 00:07:290 INFO  HomePage :65 - Enter Location: [[ChromeDriver: chrome on WINDOWS (e809d4b1ddf58b5a85e9e6fd88327096)] -> css selector: div[class='home-search hps-transition'] input[name='geo']]
+2023-07-05 00:07:756 INFO  HomePage :78 - Enter Salary Min[[ChromeDriver: chrome on WINDOWS (e809d4b1ddf58b5a85e9e6fd88327096)] -> xpath: //input[@id='salarymin']]<br>
+2023-07-05 00:07:919 INFO  HomePage :83 - Enter Salary Max[[ChromeDriver: chrome on WINDOWS (e809d4b1ddf58b5a85e9e6fd88327096)] -> xpath: //input[@id='salarymax']]<br>
+2023-07-05 00:07:49 INFO  HomePage :88 - Select Salary Type[[ChromeDriver: chrome on WINDOWS (e809d4b1ddf58b5a85e9e6fd88327096)] -> xpath: //select[@id='salarytype']]<br>
+2023-07-05 00:07:170 INFO  HomePage :93 - Select Job Type[[ChromeDriver: chrome on WINDOWS (e809d4b1ddf58b5a85e9e6fd88327096)] -> xpath: //select[@id='tempperm']]<br>
+2023-07-05 00:07:96 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:435 INFO  HomePage :60 - Enter Job Title`[[ChromeDriver: chrome on WINDOWS (a8e3d1b8be8adcdf09d2fa7cc8e9f7d9)] -> xpath: //input[@id='keywords']]<br>
+2023-07-05 00:07:603 INFO  HomePage :65 - Enter Location: [[ChromeDriver: chrome on WINDOWS (a8e3d1b8be8adcdf09d2fa7cc8e9f7d9)] -> css selector: div[class='home-search hps-transition'] input[name='geo']]
+2023-07-05 00:07:11 INFO  HomePage :78 - Enter Salary Min[[ChromeDriver: chrome on WINDOWS (a8e3d1b8be8adcdf09d2fa7cc8e9f7d9)] -> xpath: //input[@id='salarymin']]<br>
+2023-07-05 00:07:153 INFO  HomePage :83 - Enter Salary Max[[ChromeDriver: chrome on WINDOWS (a8e3d1b8be8adcdf09d2fa7cc8e9f7d9)] -> xpath: //input[@id='salarymax']]<br>
+2023-07-05 00:07:259 INFO  HomePage :88 - Select Salary Type[[ChromeDriver: chrome on WINDOWS (a8e3d1b8be8adcdf09d2fa7cc8e9f7d9)] -> xpath: //select[@id='salarytype']]<br>
+2023-07-05 00:07:375 INFO  HomePage :93 - Select Job Type[[ChromeDriver: chrome on WINDOWS (a8e3d1b8be8adcdf09d2fa7cc8e9f7d9)] -> xpath: //select[@id='tempperm']]<br>
+2023-07-05 00:07:306 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:232 INFO  HomePage :60 - Enter Job Title`[[ChromeDriver: chrome on WINDOWS (f7d6e002d23d9808c2e706061df9097e)] -> xpath: //input[@id='keywords']]<br>
+2023-07-05 00:07:405 INFO  HomePage :65 - Enter Location: [[ChromeDriver: chrome on WINDOWS (f7d6e002d23d9808c2e706061df9097e)] -> css selector: div[class='home-search hps-transition'] input[name='geo']]
+2023-07-05 00:07:806 INFO  HomePage :78 - Enter Salary Min[[ChromeDriver: chrome on WINDOWS (f7d6e002d23d9808c2e706061df9097e)] -> xpath: //input[@id='salarymin']]<br>
+2023-07-05 00:07:943 INFO  HomePage :83 - Enter Salary Max[[ChromeDriver: chrome on WINDOWS (f7d6e002d23d9808c2e706061df9097e)] -> xpath: //input[@id='salarymax']]<br>
+2023-07-05 00:07:48 INFO  HomePage :88 - Select Salary Type[[ChromeDriver: chrome on WINDOWS (f7d6e002d23d9808c2e706061df9097e)] -> xpath: //select[@id='salarytype']]<br>
+2023-07-05 00:07:160 INFO  HomePage :93 - Select Job Type[[ChromeDriver: chrome on WINDOWS (f7d6e002d23d9808c2e706061df9097e)] -> xpath: //select[@id='tempperm']]<br>
+2023-07-05 00:07:78 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:526 INFO  HomePage :60 - Enter Job Title`[[ChromeDriver: chrome on WINDOWS (3217a7c8a9aeb031776a9306bf5b2ce1)] -> xpath: //input[@id='keywords']]<br>
+2023-07-05 00:07:702 INFO  HomePage :65 - Enter Location: [[ChromeDriver: chrome on WINDOWS (3217a7c8a9aeb031776a9306bf5b2ce1)] -> css selector: div[class='home-search hps-transition'] input[name='geo']]
+2023-07-05 00:07:23 INFO  HomePage :78 - Enter Salary Min[[ChromeDriver: chrome on WINDOWS (3217a7c8a9aeb031776a9306bf5b2ce1)] -> xpath: //input[@id='salarymin']]<br>
+2023-07-05 00:07:170 INFO  HomePage :83 - Enter Salary Max[[ChromeDriver: chrome on WINDOWS (3217a7c8a9aeb031776a9306bf5b2ce1)] -> xpath: //input[@id='salarymax']]<br>
+2023-07-05 00:07:268 INFO  HomePage :88 - Select Salary Type[[ChromeDriver: chrome on WINDOWS (3217a7c8a9aeb031776a9306bf5b2ce1)] -> xpath: //select[@id='salarytype']]<br>
+2023-07-05 00:07:395 INFO  HomePage :93 - Select Job Type[[ChromeDriver: chrome on WINDOWS (3217a7c8a9aeb031776a9306bf5b2ce1)] -> xpath: //select[@id='tempperm']]<br>
+2023-07-05 00:07:300 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:283 INFO  HomePage :60 - Enter Job Title`[[ChromeDriver: chrome on WINDOWS (71eba21de7ef469552af926ec34f0081)] -> xpath: //input[@id='keywords']]<br>
+2023-07-05 00:07:455 INFO  HomePage :65 - Enter Location: [[ChromeDriver: chrome on WINDOWS (71eba21de7ef469552af926ec34f0081)] -> css selector: div[class='home-search hps-transition'] input[name='geo']]
+2023-07-05 00:07:938 INFO  HomePage :78 - Enter Salary Min[[ChromeDriver: chrome on WINDOWS (71eba21de7ef469552af926ec34f0081)] -> xpath: //input[@id='salarymin']]<br>
+2023-07-05 00:07:70 INFO  HomePage :83 - Enter Salary Max[[ChromeDriver: chrome on WINDOWS (71eba21de7ef469552af926ec34f0081)] -> xpath: //input[@id='salarymax']]<br>
+2023-07-05 00:07:180 INFO  HomePage :88 - Select Salary Type[[ChromeDriver: chrome on WINDOWS (71eba21de7ef469552af926ec34f0081)] -> xpath: //select[@id='salarytype']]<br>
+2023-07-05 00:07:291 INFO  HomePage :93 - Select Job Type[[ChromeDriver: chrome on WINDOWS (71eba21de7ef469552af926ec34f0081)] -> xpath: //select[@id='tempperm']]<br>
+2023-07-05 00:07:195 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:859 INFO  HomePage :60 - Enter Job Title`[[ChromeDriver: chrome on WINDOWS (e09dc2233c4ec709d32cd9d6109ebde1)] -> xpath: //input[@id='keywords']]<br>
+2023-07-05 00:07:36 INFO  HomePage :65 - Enter Location: [[ChromeDriver: chrome on WINDOWS (e09dc2233c4ec709d32cd9d6109ebde1)] -> css selector: div[class='home-search hps-transition'] input[name='geo']]
+2023-07-05 00:07:506 INFO  HomePage :78 - Enter Salary Min[[ChromeDriver: chrome on WINDOWS (e09dc2233c4ec709d32cd9d6109ebde1)] -> xpath: //input[@id='salarymin']]<br>
+2023-07-05 00:07:640 INFO  HomePage :83 - Enter Salary Max[[ChromeDriver: chrome on WINDOWS (e09dc2233c4ec709d32cd9d6109ebde1)] -> xpath: //input[@id='salarymax']]<br>
+2023-07-05 00:07:752 INFO  HomePage :88 - Select Salary Type[[ChromeDriver: chrome on WINDOWS (e09dc2233c4ec709d32cd9d6109ebde1)] -> xpath: //select[@id='salarytype']]<br>
+2023-07-05 00:07:867 INFO  HomePage :93 - Select Job Type[[ChromeDriver: chrome on WINDOWS (e09dc2233c4ec709d32cd9d6109ebde1)] -> xpath: //select[@id='tempperm']]<br>

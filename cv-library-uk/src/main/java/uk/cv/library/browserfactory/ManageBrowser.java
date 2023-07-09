@@ -1,7 +1,6 @@
-package com.parabank.browserfactory;
+package uk.cv.library.browserfactory;
 
 
-import com.parabank.propertyreader.PropertyReader;
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
@@ -10,6 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.PageFactory;
+import uk.cv.library.propertyreader.PropertyReader;
 
 import java.time.Duration;
 

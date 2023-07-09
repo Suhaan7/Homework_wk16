@@ -10,10 +10,10 @@ import org.testng.Reporter;
 import uk.cv.library.utility.Utility;
 
 
-public class RegisterPage extends Utility {
-    private static final Logger log = LogManager.getLogger(RegisterPage.class.getName());
+public class ResultPage extends Utility {
+    private static final Logger log = LogManager.getLogger(ResultPage.class.getName());
 
-    public RegisterPage() {
+    public ResultPage() {
         PageFactory.initElements(driver, this);
     }
 
