@@ -1,5 +1,6 @@
+package com.parabank.steps;
+
 import com.parabank.pages.LoginPage;
-import cucumber.api.PendingException;
 import cucumber.api.java.en.And;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
@@ -22,7 +23,6 @@ public class LoginSteps {
         new LoginPage().enterPassword(password);
 
     }
-
     @Then("^user click on Login button$")
     public void userClickOnLoginButton() {
         new LoginPage().clickOnLoginButton();
@@ -52,8 +52,8 @@ public class LoginSteps {
         Assert.assertEquals(expected,new LoginPage().verifyErrorMessage());
     }
 
-    @And("^I click on Login button$")
-    public void iClickOnLoginButton() {
+    @And("^I should click on Login button$")
+    public void iShouldClickOnLoginButton() {
     }
 
     @And("^I click on Logout Link$")
@@ -64,6 +64,6 @@ public class LoginSteps {
     @Then("^I see the text \"([^\"]*)\"$")
     public void iSeeTheText(String expected)  {
         Assert.assertEquals(expected,new LoginPage().verifyCustomerLoginText());
-
     }
+
 }

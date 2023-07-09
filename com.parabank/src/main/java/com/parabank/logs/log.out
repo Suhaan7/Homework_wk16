@@ -1,0 +1,61 @@
+2023-06-30 16:06:632 INFO  ManageBrowser :32 - launching chrome browser
+2023-06-30 16:06:639 INFO  ManageBrowser :32 - launching chrome browser
+2023-06-30 16:06:167 INFO  ManageBrowser :32 - launching chrome browser
+2023-06-30 16:06:363 INFO  ManageBrowser :32 - launching chrome browser
+2023-06-30 16:06:765 INFO  ManageBrowser :32 - launching chrome browser
+2023-06-30 16:06:373 INFO  ManageBrowser :32 - launching chrome browser
+2023-06-30 16:06:742 INFO  ManageBrowser :32 - launching chrome browser
+2023-06-30 16:06:416 INFO  ManageBrowser :32 - launching chrome browser
+2023-06-30 16:06:670 INFO  ManageBrowser :32 - launching chrome browser
+2023-06-30 17:06:629 INFO  ManageBrowser :32 - launching chrome browser
+2023-06-30 17:06:645 INFO  ManageBrowser :32 - launching chrome browser
+2023-06-30 17:06:815 INFO  ManageBrowser :32 - launching chrome browser
+2023-06-30 17:06:770 INFO  ManageBrowser :32 - launching chrome browser
+2023-06-30 17:06:991 INFO  ManageBrowser :32 - launching chrome browser
+2023-06-30 17:06:251 INFO  ManageBrowser :32 - launching chrome browser
+2023-06-30 17:06:468 INFO  ManageBrowser :32 - launching chrome browser
+2023-06-30 17:06:319 INFO  ManageBrowser :32 - launching chrome browser
+2023-06-30 17:06:381 INFO  ManageBrowser :32 - launching chrome browser
+2023-06-30 17:06:489 INFO  ManageBrowser :32 - launching chrome browser
+2023-06-30 17:06:519 INFO  ManageBrowser :32 - launching chrome browser
+2023-06-30 17:06:654 INFO  ManageBrowser :32 - launching chrome browser
+2023-07-04 01:07:135 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-04 01:07:675 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-04 01:07:204 INFO  RegisterPage :78 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (77194c40f51d638e08a980ad4108c417)] -> link text: Register]
+2023-07-04 01:07:247 INFO  RegisterPage :82 - Get text from : [[ChromeDriver: chrome on WINDOWS (77194c40f51d638e08a980ad4108c417)] -> xpath: //h1[@class='title']]
+2023-07-04 01:07:03 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-04 01:07:267 INFO  RegisterPage :78 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (f26d35ea7db0f326fa7e77a4656b4ae9)] -> link text: Register]
+2023-07-04 01:07:51 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-04 01:07:525 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-04 01:07:895 INFO  RegisterPage :78 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (5d24e2c2fde1cf9a5fb98099dee8df37)] -> link text: Register]
+2023-07-04 01:07:936 INFO  RegisterPage :82 - Get text from : [[ChromeDriver: chrome on WINDOWS (5d24e2c2fde1cf9a5fb98099dee8df37)] -> xpath: //h1[@class='title']]
+2023-07-04 01:07:701 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-04 01:07:86 INFO  RegisterPage :78 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (c85469218ac75c01f330a4e92ca32606)] -> link text: Register]
+2023-07-04 01:07:425 INFO  RegisterPage :82 - Get text from : [[ChromeDriver: chrome on WINDOWS (c85469218ac75c01f330a4e92ca32606)] -> xpath: //h1[@class='title']]
+2023-07-04 22:07:617 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-04 22:07:875 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-04 22:07:815 INFO  LoginPage :60 - Verify Error Message: [[ChromeDriver: chrome on WINDOWS (b973ddf861ea0ed0f68f1a7bb64c8b1d)] -> xpath: //p[@class='error']]
+2023-07-04 22:07:760 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-04 22:07:283 INFO  LoginPage :60 - Verify Error Message: [[ChromeDriver: chrome on WINDOWS (de29db381af30ce397972a756a3f844e)] -> xpath: //p[@class='error']]
+2023-07-04 22:07:287 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-04 22:07:956 INFO  LoginPage :60 - Verify Error Message: [[ChromeDriver: chrome on WINDOWS (9b395efac4d14f0b61d04043793d350c)] -> xpath: //p[@class='error']]
+2023-07-04 22:07:940 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-04 22:07:789 INFO  RegisterPage :77 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (72760e1ec76f47938186857e20cd3774)] -> link text: Register]
+2023-07-04 22:07:828 INFO  RegisterPage :81 - Get text from : [[ChromeDriver: chrome on WINDOWS (72760e1ec76f47938186857e20cd3774)] -> xpath: //h1[@class='title']]
+2023-07-04 22:07:550 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-04 22:07:563 INFO  RegisterPage :77 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (4d4e030e9da410670215cb0f953476bf)] -> link text: Register]
+2023-07-04 22:07:966 INFO  RegisterPage :81 - Get text from : [[ChromeDriver: chrome on WINDOWS (4d4e030e9da410670215cb0f953476bf)] -> xpath: //h1[@class='title']]
+2023-07-04 22:07:04 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-04 22:07:222 INFO  LoginPage :67 - Verify Error Message: [[ChromeDriver: chrome on WINDOWS (2950676564b627278bc11801b001d2cf)] -> xpath: //h2[normalize-space()='Customer Login']]
+2023-07-04 22:07:965 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-04 22:07:96 INFO  LoginPage :60 - Verify Error Message: [[ChromeDriver: chrome on WINDOWS (2f6cdc74bacf218d076a28516ce92862)] -> xpath: //h1[@class='title']]
+2023-07-04 22:07:853 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-04 22:07:946 INFO  LoginPage :60 - Verify Error Message: [[ChromeDriver: chrome on WINDOWS (77e40ccb677ecd3f7f41c8e189ae6760)] -> xpath: //h1[@class='title']]
+2023-07-04 22:07:653 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-04 22:07:652 INFO  LoginPage :60 - Verify Error Message: [[ChromeDriver: chrome on WINDOWS (17715bb47b128cf55f3b2065ffc11b9f)] -> xpath: //h1[@class='title']]
+2023-07-04 22:07:382 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-04 22:07:702 INFO  RegisterPage :77 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (af0999be8851cca1d2c0861a393ccc5d)] -> link text: Register]
+2023-07-04 22:07:739 INFO  RegisterPage :81 - Get text from : [[ChromeDriver: chrome on WINDOWS (af0999be8851cca1d2c0861a393ccc5d)] -> xpath: //h1[@class='title']]
+2023-07-04 22:07:452 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-04 22:07:552 INFO  RegisterPage :77 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (527e38810fbf3fb69a96de713f52b43b)] -> link text: Register]
+2023-07-04 22:07:841 INFO  RegisterPage :81 - Get text from : [[ChromeDriver: chrome on WINDOWS (527e38810fbf3fb69a96de713f52b43b)] -> xpath: //h1[@class='title']]

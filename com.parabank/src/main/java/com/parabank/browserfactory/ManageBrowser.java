@@ -1,6 +1,7 @@
-package com.nopcommerce.browserfactory;
+package com.parabank.browserfactory;
 
-import com.nopcommerce.propertyreader.PropertyReader;
+
+import com.parabank.propertyreader.PropertyReader;
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;

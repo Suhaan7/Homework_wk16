@@ -1,7 +1,7 @@
-package com.nopcommerce.utility;
+package com.parabank.utility;
 
 import com.google.common.base.Function;
-import com.nopcommerce.browserfactory.ManageBrowser;
+import com.parabank.browserfactory.ManageBrowser;
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.Actions;
@@ -312,7 +312,7 @@ public class Utility extends ManageBrowser {
      * This method will take screenshot
      */
     public static void takeScreenShot() {
-        String filePath = System.getProperty("user.dir") + "/src/main/java/com/nopcommerce/demo/screenshots/";
+        String filePath = System.getProperty("user.dir") + "/src/main/java/com/parabank/demo/screenshots/";
         TakesScreenshot screenshot = (TakesScreenshot) driver;
         File scr1 = screenshot.getScreenshotAs(OutputType.FILE);
         try {
@@ -333,7 +333,7 @@ public class Utility extends ManageBrowser {
         File source = ts.getScreenshotAs(OutputType.FILE);
 
         // After execution, you could see a folder "FailedTestsScreenshots" under screenshot folder
-        String destination = System.getProperty("user.dir") + "/src/main/java/com/nopcommerce/screenshots/" + screenshotName + dateName + ".png";
+        String destination = System.getProperty("user.dir") + "/src/main/java/com/parabank/screenshots/" + screenshotName + dateName + ".png";
         File finalDestination = new File(destination);
         try {
             FileUtils.copyFile(source, finalDestination);

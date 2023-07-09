@@ -1,4 +1,4 @@
-package com.nopcommerce.propertyreader;
+package com.parabank.propertyreader;
 
 import java.io.FileInputStream;
 import java.util.Properties;

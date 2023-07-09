@@ -1,35 +1,35 @@
 @regression
-Feature: Login Test
-  As user I want to login into nop commerce website
+Feature: Login Feature
 
-  @smoke
-  Scenario: User should navigate to login page successfully
-    Given I am on homepage
-#    When I am on homepage I see login link
-#    When I click on login link
-#    And I am login page
-   # Then I should navigate to login page successfully
+  Background: I am on homepage
 
-#  #@Smoke @sanity @bug
-#  Scenario: User should login successfully with valid credentials
-#    Given I am on homepage
-#    When I click on login link
-#    And I enter email "ccd@gmail.com"
-#    And I enter password "123456"
-#    And I click on login button
-#    Then I should login successfully
-#
-#  Scenario Outline: Verify the error message with invalid credentials
-#    Given I am on homepage
-#    When I click on login link
-#    And I enter email "<email>"
-#    And I enter password "<password>"
-#    And I click on login button
-#    Then I should see the error message "<errorMessage>"
-#    Examples:
-#      | email             | password | errorMessage                                                                                |
-#      | code@gmail.com    | xyz123   | Login was unsuccessful. Please correct the errors and try again.\nNo customer account found |
-#      | buster@gmail.com  | abc123   | Login was unsuccessful. Please correct the errors and try again.\nNo customer account found |
-#      | codebus@gmail.com | xyz123   | Login was unsuccessful. Please correct the errors and try again.\nNo customer account found |
+  As user I want to Login into parabank website
+
+  @unit
+  Scenario: User should Login Successfully with valid credentials
+    And I enter valid username "RudShi"
+    And I enter valid password "312"
+    Then user click on Login button
+    And I click on Logout Link
+    Then I see the text "Customer Login"
+
+  @regression
+  Scenario Outline: User should get error message when enter invalid credentials
+    And I enter username "<username>"
+    And I enter password "<password>"
+    And I click on login button
+    Then I should see the error message "<errorMessage>"
+
+    Examples:
+    |username      |   password  |    errorMessage |
+    |RudShi        |67890        |Error! |
+    |RS            |9898         |Error! |
+    |SR            |989898       |Error! |
+
+
+
+
+
+
 
 

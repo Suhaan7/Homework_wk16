@@ -1,12 +1,13 @@
-package com.nopcommerce.pages;
+package com.parabank.pages;
 
-import com.nopcommerce.utility.Utility;
+import com.parabank.utility.Utility;
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.testng.Reporter;
 
 
 public class LoginPage extends Utility {
@@ -18,91 +19,52 @@ public class LoginPage extends Utility {
     }
 
     @CacheLookup
-    @FindBy(xpath = "//h1[contains(text(),'Welcome, Please Sign In!')]")
-    WebElement welcomeText;
+    @FindBy(xpath = "//input[@name='username']")
+    WebElement enterUsername;
 
     @CacheLookup
-    @FindBy(id = "Email")
-    WebElement emailField;
+    @FindBy(xpath = "//input[@name='password']")
+    WebElement enterPassword;
 
     @CacheLookup
-    @FindBy(name = "Password")
-    WebElement passwordField;
-
-    @CacheLookup
-    @FindBy(xpath = "//button[contains(text(),'Log in')]")
+    @FindBy(xpath = "//input[@value='Log In']")
     WebElement loginButton;
 
     @CacheLookup
-    @FindBy(xpath = "//div[@class='message-error validation-summary-errors']")
+    @FindBy(xpath = "//h1[@class='title']")
     WebElement errorMessage;
 
     @CacheLookup
-    @FindBy(id = "FirstName")
-    WebElement registerFirstNameField;
+    @FindBy(xpath = "//a[normalize-space()='Log Out']")
+    WebElement logoutButton;
 
     @CacheLookup
-    @FindBy(id = "LastName")
-    WebElement registerLastNameField;
+    @FindBy(xpath = "//h2[normalize-space()='Customer Login']")
+    WebElement customerLoginText;
 
-    @CacheLookup
-    @FindBy(id = "Email")
-    WebElement registerEmailField;
-
-    @CacheLookup
-    @FindBy(id = "Password")
-    WebElement registerPasswordField;
-
-    @CacheLookup
-    @FindBy(id = "ConfirmPassword")
-    WebElement registerCPasswordField;
-
-
-    public String getWelcomeText() {
-        String message = getTextFromElement(welcomeText);
-        log.info("Getting text from : " + welcomeText.toString());
-        return message;
+    public void enterUserName(String userName) {
+        Reporter.log("Click on Username" + userName.toString() + "<br>");
+        enterUsername.sendKeys(userName);
     }
 
-    @CacheLookup
-    @FindBy(id = "register-button")
-    WebElement registerButton;
-
-
-    public void enterEmailId(String email) {
-        sendTextToElement(emailField, email);
-    }
-
-    public void enterPassword(String password) {
-        sendTextToElement(passwordField, password);
+    public void enterPassword(String Password) {
+        Reporter.log("Click on Password" + Password.toString() + "<br>");
+        enterPassword.sendKeys(Password);
     }
 
     public void clickOnLoginButton() {
         clickOnElement(loginButton);
     }
 
-    public String getErrorMessage() {
+    public String verifyErrorMessage() {
+        log.info("Verify Error Message: " + errorMessage.toString());
         return getTextFromElement(errorMessage);
     }
-
-    public void loginToApplication(String email, String password) {
-        enterEmailId(email);
-        enterPassword(password);
-        clickOnLoginButton();
+    public void clickOnLogoutButton() {
+        clickOnElement(logoutButton);
     }
-
-    public void register(String fName, String lName, String email,String pass, String cpass) throws InterruptedException {
-        sendTextToElement(registerFirstNameField,fName);
-        Thread.sleep(2000);
-        sendTextToElement(registerLastNameField,lName);
-        Thread.sleep(2000);
-        sendTextToElement(registerEmailField,email);
-        Thread.sleep(2000);
-        sendTextToElement(registerPasswordField,pass);
-        Thread.sleep(2000);
-        sendTextToElement(registerCPasswordField,cpass);
-        Thread.sleep(2000);
-        clickOnElement(registerButton);
+    public String verifyCustomerLoginText() {
+        log.info("Verify Error Message: " + customerLoginText.toString());
+        return getTextFromElement(customerLoginText);
     }
-
 }
