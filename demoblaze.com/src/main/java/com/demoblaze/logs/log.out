@@ -1,0 +1,264 @@
+2023-06-30 16:06:632 INFO  ManageBrowser :32 - launching chrome browser
+2023-06-30 16:06:639 INFO  ManageBrowser :32 - launching chrome browser
+2023-06-30 16:06:167 INFO  ManageBrowser :32 - launching chrome browser
+2023-06-30 16:06:363 INFO  ManageBrowser :32 - launching chrome browser
+2023-06-30 16:06:765 INFO  ManageBrowser :32 - launching chrome browser
+2023-06-30 16:06:373 INFO  ManageBrowser :32 - launching chrome browser
+2023-06-30 16:06:742 INFO  ManageBrowser :32 - launching chrome browser
+2023-06-30 16:06:416 INFO  ManageBrowser :32 - launching chrome browser
+2023-06-30 16:06:670 INFO  ManageBrowser :32 - launching chrome browser
+2023-06-30 17:06:629 INFO  ManageBrowser :32 - launching chrome browser
+2023-06-30 17:06:645 INFO  ManageBrowser :32 - launching chrome browser
+2023-06-30 17:06:815 INFO  ManageBrowser :32 - launching chrome browser
+2023-06-30 17:06:770 INFO  ManageBrowser :32 - launching chrome browser
+2023-06-30 17:06:991 INFO  ManageBrowser :32 - launching chrome browser
+2023-06-30 17:06:251 INFO  ManageBrowser :32 - launching chrome browser
+2023-06-30 17:06:468 INFO  ManageBrowser :32 - launching chrome browser
+2023-06-30 17:06:319 INFO  ManageBrowser :32 - launching chrome browser
+2023-06-30 17:06:381 INFO  ManageBrowser :32 - launching chrome browser
+2023-06-30 17:06:489 INFO  ManageBrowser :32 - launching chrome browser
+2023-06-30 17:06:519 INFO  ManageBrowser :32 - launching chrome browser
+2023-06-30 17:06:654 INFO  ManageBrowser :32 - launching chrome browser
+2023-07-04 01:07:135 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-04 01:07:675 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-04 01:07:204 INFO  RegisterPage :78 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (77194c40f51d638e08a980ad4108c417)] -> link text: Register]
+2023-07-04 01:07:247 INFO  RegisterPage :82 - Get text from : [[ChromeDriver: chrome on WINDOWS (77194c40f51d638e08a980ad4108c417)] -> xpath: //h1[@class='title']]
+2023-07-04 01:07:03 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-04 01:07:267 INFO  RegisterPage :78 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (f26d35ea7db0f326fa7e77a4656b4ae9)] -> link text: Register]
+2023-07-04 01:07:51 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-04 01:07:525 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-04 01:07:895 INFO  RegisterPage :78 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (5d24e2c2fde1cf9a5fb98099dee8df37)] -> link text: Register]
+2023-07-04 01:07:936 INFO  RegisterPage :82 - Get text from : [[ChromeDriver: chrome on WINDOWS (5d24e2c2fde1cf9a5fb98099dee8df37)] -> xpath: //h1[@class='title']]
+2023-07-04 01:07:701 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-04 01:07:86 INFO  RegisterPage :78 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (c85469218ac75c01f330a4e92ca32606)] -> link text: Register]
+2023-07-04 01:07:425 INFO  RegisterPage :82 - Get text from : [[ChromeDriver: chrome on WINDOWS (c85469218ac75c01f330a4e92ca32606)] -> xpath: //h1[@class='title']]
+2023-07-05 00:07:354 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:182 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:586 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:310 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:41 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:07 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:46 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:894 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:72 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:708 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:664 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:753 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:637 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:322 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:61 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:999 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:171 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:506 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:337 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:447 INFO  HomePage :65 - Enter Location: Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='home-search hps-transition'] input[name='geo']'
+2023-07-05 00:07:847 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:661 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:396 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:232 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:51 INFO  HomePage :65 - Enter Location: [[ChromeDriver: chrome on WINDOWS (0b2d66d6beecee841061ed6b56c7af8c)] -> css selector: div[class='home-search hps-transition'] input[name='geo']]
+2023-07-05 00:07:695 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:654 INFO  HomePage :65 - Enter Location: [[ChromeDriver: chrome on WINDOWS (2b28c39b1344474e4334855d2cd3b494)] -> css selector: div[class='home-search hps-transition'] input[name='geo']]
+2023-07-05 00:07:520 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:693 INFO  HomePage :65 - Enter Location: [[ChromeDriver: chrome on WINDOWS (41e576623418443a8a205592aa8ce37b)] -> css selector: div[class='home-search hps-transition'] input[name='geo']]
+2023-07-05 00:07:09 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:756 INFO  HomePage :65 - Enter Location: [[ChromeDriver: chrome on WINDOWS (aebecfe49693926a495ee52faf4c2376)] -> css selector: div[class='home-search hps-transition'] input[name='geo']]
+2023-07-05 00:07:676 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:608 INFO  HomePage :65 - Enter Location: [[ChromeDriver: chrome on WINDOWS (09aa2cf2955dfa72809598b6bf9cb3d0)] -> css selector: div[class='home-search hps-transition'] input[name='geo']]
+2023-07-05 00:07:929 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:837 INFO  HomePage :65 - Enter Location: [[ChromeDriver: chrome on WINDOWS (3cb723ce585e344d67bd23e41e82f774)] -> css selector: div[class='home-search hps-transition'] input[name='geo']]
+2023-07-05 00:07:93 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:733 INFO  HomePage :60 - Enter Job Title`[[ChromeDriver: chrome on WINDOWS (e2ca55222bf4359e2cb3008a2cd2a17d)] -> xpath: //input[@id='keywords']]<br>
+2023-07-05 00:07:922 INFO  HomePage :65 - Enter Location: [[ChromeDriver: chrome on WINDOWS (e2ca55222bf4359e2cb3008a2cd2a17d)] -> css selector: div[class='home-search hps-transition'] input[name='geo']]
+2023-07-05 00:07:354 INFO  HomePage :78 - Enter Salary Min[[ChromeDriver: chrome on WINDOWS (e2ca55222bf4359e2cb3008a2cd2a17d)] -> xpath: //input[@id='salarymin']]<br>
+2023-07-05 00:07:512 INFO  HomePage :83 - Enter Salary Max[[ChromeDriver: chrome on WINDOWS (e2ca55222bf4359e2cb3008a2cd2a17d)] -> xpath: //input[@id='salarymax']]<br>
+2023-07-05 00:07:645 INFO  HomePage :88 - Select Salary Type[[ChromeDriver: chrome on WINDOWS (e2ca55222bf4359e2cb3008a2cd2a17d)] -> xpath: //select[@id='salarytype']]<br>
+2023-07-05 00:07:782 INFO  HomePage :93 - Select Job Type[[ChromeDriver: chrome on WINDOWS (e2ca55222bf4359e2cb3008a2cd2a17d)] -> xpath: //select[@id='tempperm']]<br>
+2023-07-05 00:07:798 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:285 INFO  HomePage :60 - Enter Job Title`[[ChromeDriver: chrome on WINDOWS (47074285bff00d70c3a44e365b833809)] -> xpath: //input[@id='keywords']]<br>
+2023-07-05 00:07:459 INFO  HomePage :65 - Enter Location: [[ChromeDriver: chrome on WINDOWS (47074285bff00d70c3a44e365b833809)] -> css selector: div[class='home-search hps-transition'] input[name='geo']]
+2023-07-05 00:07:898 INFO  HomePage :78 - Enter Salary Min[[ChromeDriver: chrome on WINDOWS (47074285bff00d70c3a44e365b833809)] -> xpath: //input[@id='salarymin']]<br>
+2023-07-05 00:07:47 INFO  HomePage :83 - Enter Salary Max[[ChromeDriver: chrome on WINDOWS (47074285bff00d70c3a44e365b833809)] -> xpath: //input[@id='salarymax']]<br>
+2023-07-05 00:07:159 INFO  HomePage :88 - Select Salary Type[[ChromeDriver: chrome on WINDOWS (47074285bff00d70c3a44e365b833809)] -> xpath: //select[@id='salarytype']]<br>
+2023-07-05 00:07:276 INFO  HomePage :93 - Select Job Type[[ChromeDriver: chrome on WINDOWS (47074285bff00d70c3a44e365b833809)] -> xpath: //select[@id='tempperm']]<br>
+2023-07-05 00:07:405 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:534 INFO  HomePage :60 - Enter Job Title`[[ChromeDriver: chrome on WINDOWS (b729f170a1f0ec9b514b84b9f260dc39)] -> xpath: //input[@id='keywords']]<br>
+2023-07-05 00:07:734 INFO  HomePage :65 - Enter Location: [[ChromeDriver: chrome on WINDOWS (b729f170a1f0ec9b514b84b9f260dc39)] -> css selector: div[class='home-search hps-transition'] input[name='geo']]
+2023-07-05 00:07:128 INFO  HomePage :78 - Enter Salary Min[[ChromeDriver: chrome on WINDOWS (b729f170a1f0ec9b514b84b9f260dc39)] -> xpath: //input[@id='salarymin']]<br>
+2023-07-05 00:07:262 INFO  HomePage :83 - Enter Salary Max[[ChromeDriver: chrome on WINDOWS (b729f170a1f0ec9b514b84b9f260dc39)] -> xpath: //input[@id='salarymax']]<br>
+2023-07-05 00:07:372 INFO  HomePage :88 - Select Salary Type[[ChromeDriver: chrome on WINDOWS (b729f170a1f0ec9b514b84b9f260dc39)] -> xpath: //select[@id='salarytype']]<br>
+2023-07-05 00:07:490 INFO  HomePage :93 - Select Job Type[[ChromeDriver: chrome on WINDOWS (b729f170a1f0ec9b514b84b9f260dc39)] -> xpath: //select[@id='tempperm']]<br>
+2023-07-05 00:07:847 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:877 INFO  HomePage :60 - Enter Job Title`[[ChromeDriver: chrome on WINDOWS (e7a62fd248b6efa00cbf6bbc73c4e91c)] -> xpath: //input[@id='keywords']]<br>
+2023-07-05 00:07:52 INFO  HomePage :65 - Enter Location: [[ChromeDriver: chrome on WINDOWS (e7a62fd248b6efa00cbf6bbc73c4e91c)] -> css selector: div[class='home-search hps-transition'] input[name='geo']]
+2023-07-05 00:07:380 INFO  HomePage :78 - Enter Salary Min[[ChromeDriver: chrome on WINDOWS (e7a62fd248b6efa00cbf6bbc73c4e91c)] -> xpath: //input[@id='salarymin']]<br>
+2023-07-05 00:07:535 INFO  HomePage :83 - Enter Salary Max[[ChromeDriver: chrome on WINDOWS (e7a62fd248b6efa00cbf6bbc73c4e91c)] -> xpath: //input[@id='salarymax']]<br>
+2023-07-05 00:07:645 INFO  HomePage :88 - Select Salary Type[[ChromeDriver: chrome on WINDOWS (e7a62fd248b6efa00cbf6bbc73c4e91c)] -> xpath: //select[@id='salarytype']]<br>
+2023-07-05 00:07:785 INFO  HomePage :93 - Select Job Type[[ChromeDriver: chrome on WINDOWS (e7a62fd248b6efa00cbf6bbc73c4e91c)] -> xpath: //select[@id='tempperm']]<br>
+2023-07-05 00:07:658 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:846 INFO  HomePage :60 - Enter Job Title`[[ChromeDriver: chrome on WINDOWS (88d8861c97c8e8954f2c7bef11e6dc6b)] -> xpath: //input[@id='keywords']]<br>
+2023-07-05 00:07:25 INFO  HomePage :65 - Enter Location: [[ChromeDriver: chrome on WINDOWS (88d8861c97c8e8954f2c7bef11e6dc6b)] -> css selector: div[class='home-search hps-transition'] input[name='geo']]
+2023-07-05 00:07:530 INFO  HomePage :78 - Enter Salary Min[[ChromeDriver: chrome on WINDOWS (88d8861c97c8e8954f2c7bef11e6dc6b)] -> xpath: //input[@id='salarymin']]<br>
+2023-07-05 00:07:677 INFO  HomePage :83 - Enter Salary Max[[ChromeDriver: chrome on WINDOWS (88d8861c97c8e8954f2c7bef11e6dc6b)] -> xpath: //input[@id='salarymax']]<br>
+2023-07-05 00:07:778 INFO  HomePage :88 - Select Salary Type[[ChromeDriver: chrome on WINDOWS (88d8861c97c8e8954f2c7bef11e6dc6b)] -> xpath: //select[@id='salarytype']]<br>
+2023-07-05 00:07:890 INFO  HomePage :93 - Select Job Type[[ChromeDriver: chrome on WINDOWS (88d8861c97c8e8954f2c7bef11e6dc6b)] -> xpath: //select[@id='tempperm']]<br>
+2023-07-05 00:07:882 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:278 INFO  HomePage :60 - Enter Job Title`[[ChromeDriver: chrome on WINDOWS (8574d8feea7c597f4f39d2a8f22beb63)] -> xpath: //input[@id='keywords']]<br>
+2023-07-05 00:07:427 INFO  HomePage :65 - Enter Location: [[ChromeDriver: chrome on WINDOWS (8574d8feea7c597f4f39d2a8f22beb63)] -> css selector: div[class='home-search hps-transition'] input[name='geo']]
+2023-07-05 00:07:963 INFO  HomePage :78 - Enter Salary Min[[ChromeDriver: chrome on WINDOWS (8574d8feea7c597f4f39d2a8f22beb63)] -> xpath: //input[@id='salarymin']]<br>
+2023-07-05 00:07:124 INFO  HomePage :83 - Enter Salary Max[[ChromeDriver: chrome on WINDOWS (8574d8feea7c597f4f39d2a8f22beb63)] -> xpath: //input[@id='salarymax']]<br>
+2023-07-05 00:07:237 INFO  HomePage :88 - Select Salary Type[[ChromeDriver: chrome on WINDOWS (8574d8feea7c597f4f39d2a8f22beb63)] -> xpath: //select[@id='salarytype']]<br>
+2023-07-05 00:07:345 INFO  HomePage :93 - Select Job Type[[ChromeDriver: chrome on WINDOWS (8574d8feea7c597f4f39d2a8f22beb63)] -> xpath: //select[@id='tempperm']]<br>
+2023-07-05 00:07:152 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:149 INFO  HomePage :60 - Enter Job Title`[[ChromeDriver: chrome on WINDOWS (e809d4b1ddf58b5a85e9e6fd88327096)] -> xpath: //input[@id='keywords']]<br>
+2023-07-05 00:07:290 INFO  HomePage :65 - Enter Location: [[ChromeDriver: chrome on WINDOWS (e809d4b1ddf58b5a85e9e6fd88327096)] -> css selector: div[class='home-search hps-transition'] input[name='geo']]
+2023-07-05 00:07:756 INFO  HomePage :78 - Enter Salary Min[[ChromeDriver: chrome on WINDOWS (e809d4b1ddf58b5a85e9e6fd88327096)] -> xpath: //input[@id='salarymin']]<br>
+2023-07-05 00:07:919 INFO  HomePage :83 - Enter Salary Max[[ChromeDriver: chrome on WINDOWS (e809d4b1ddf58b5a85e9e6fd88327096)] -> xpath: //input[@id='salarymax']]<br>
+2023-07-05 00:07:49 INFO  HomePage :88 - Select Salary Type[[ChromeDriver: chrome on WINDOWS (e809d4b1ddf58b5a85e9e6fd88327096)] -> xpath: //select[@id='salarytype']]<br>
+2023-07-05 00:07:170 INFO  HomePage :93 - Select Job Type[[ChromeDriver: chrome on WINDOWS (e809d4b1ddf58b5a85e9e6fd88327096)] -> xpath: //select[@id='tempperm']]<br>
+2023-07-05 00:07:96 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:435 INFO  HomePage :60 - Enter Job Title`[[ChromeDriver: chrome on WINDOWS (a8e3d1b8be8adcdf09d2fa7cc8e9f7d9)] -> xpath: //input[@id='keywords']]<br>
+2023-07-05 00:07:603 INFO  HomePage :65 - Enter Location: [[ChromeDriver: chrome on WINDOWS (a8e3d1b8be8adcdf09d2fa7cc8e9f7d9)] -> css selector: div[class='home-search hps-transition'] input[name='geo']]
+2023-07-05 00:07:11 INFO  HomePage :78 - Enter Salary Min[[ChromeDriver: chrome on WINDOWS (a8e3d1b8be8adcdf09d2fa7cc8e9f7d9)] -> xpath: //input[@id='salarymin']]<br>
+2023-07-05 00:07:153 INFO  HomePage :83 - Enter Salary Max[[ChromeDriver: chrome on WINDOWS (a8e3d1b8be8adcdf09d2fa7cc8e9f7d9)] -> xpath: //input[@id='salarymax']]<br>
+2023-07-05 00:07:259 INFO  HomePage :88 - Select Salary Type[[ChromeDriver: chrome on WINDOWS (a8e3d1b8be8adcdf09d2fa7cc8e9f7d9)] -> xpath: //select[@id='salarytype']]<br>
+2023-07-05 00:07:375 INFO  HomePage :93 - Select Job Type[[ChromeDriver: chrome on WINDOWS (a8e3d1b8be8adcdf09d2fa7cc8e9f7d9)] -> xpath: //select[@id='tempperm']]<br>
+2023-07-05 00:07:306 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:232 INFO  HomePage :60 - Enter Job Title`[[ChromeDriver: chrome on WINDOWS (f7d6e002d23d9808c2e706061df9097e)] -> xpath: //input[@id='keywords']]<br>
+2023-07-05 00:07:405 INFO  HomePage :65 - Enter Location: [[ChromeDriver: chrome on WINDOWS (f7d6e002d23d9808c2e706061df9097e)] -> css selector: div[class='home-search hps-transition'] input[name='geo']]
+2023-07-05 00:07:806 INFO  HomePage :78 - Enter Salary Min[[ChromeDriver: chrome on WINDOWS (f7d6e002d23d9808c2e706061df9097e)] -> xpath: //input[@id='salarymin']]<br>
+2023-07-05 00:07:943 INFO  HomePage :83 - Enter Salary Max[[ChromeDriver: chrome on WINDOWS (f7d6e002d23d9808c2e706061df9097e)] -> xpath: //input[@id='salarymax']]<br>
+2023-07-05 00:07:48 INFO  HomePage :88 - Select Salary Type[[ChromeDriver: chrome on WINDOWS (f7d6e002d23d9808c2e706061df9097e)] -> xpath: //select[@id='salarytype']]<br>
+2023-07-05 00:07:160 INFO  HomePage :93 - Select Job Type[[ChromeDriver: chrome on WINDOWS (f7d6e002d23d9808c2e706061df9097e)] -> xpath: //select[@id='tempperm']]<br>
+2023-07-05 00:07:78 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:526 INFO  HomePage :60 - Enter Job Title`[[ChromeDriver: chrome on WINDOWS (3217a7c8a9aeb031776a9306bf5b2ce1)] -> xpath: //input[@id='keywords']]<br>
+2023-07-05 00:07:702 INFO  HomePage :65 - Enter Location: [[ChromeDriver: chrome on WINDOWS (3217a7c8a9aeb031776a9306bf5b2ce1)] -> css selector: div[class='home-search hps-transition'] input[name='geo']]
+2023-07-05 00:07:23 INFO  HomePage :78 - Enter Salary Min[[ChromeDriver: chrome on WINDOWS (3217a7c8a9aeb031776a9306bf5b2ce1)] -> xpath: //input[@id='salarymin']]<br>
+2023-07-05 00:07:170 INFO  HomePage :83 - Enter Salary Max[[ChromeDriver: chrome on WINDOWS (3217a7c8a9aeb031776a9306bf5b2ce1)] -> xpath: //input[@id='salarymax']]<br>
+2023-07-05 00:07:268 INFO  HomePage :88 - Select Salary Type[[ChromeDriver: chrome on WINDOWS (3217a7c8a9aeb031776a9306bf5b2ce1)] -> xpath: //select[@id='salarytype']]<br>
+2023-07-05 00:07:395 INFO  HomePage :93 - Select Job Type[[ChromeDriver: chrome on WINDOWS (3217a7c8a9aeb031776a9306bf5b2ce1)] -> xpath: //select[@id='tempperm']]<br>
+2023-07-05 00:07:300 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:283 INFO  HomePage :60 - Enter Job Title`[[ChromeDriver: chrome on WINDOWS (71eba21de7ef469552af926ec34f0081)] -> xpath: //input[@id='keywords']]<br>
+2023-07-05 00:07:455 INFO  HomePage :65 - Enter Location: [[ChromeDriver: chrome on WINDOWS (71eba21de7ef469552af926ec34f0081)] -> css selector: div[class='home-search hps-transition'] input[name='geo']]
+2023-07-05 00:07:938 INFO  HomePage :78 - Enter Salary Min[[ChromeDriver: chrome on WINDOWS (71eba21de7ef469552af926ec34f0081)] -> xpath: //input[@id='salarymin']]<br>
+2023-07-05 00:07:70 INFO  HomePage :83 - Enter Salary Max[[ChromeDriver: chrome on WINDOWS (71eba21de7ef469552af926ec34f0081)] -> xpath: //input[@id='salarymax']]<br>
+2023-07-05 00:07:180 INFO  HomePage :88 - Select Salary Type[[ChromeDriver: chrome on WINDOWS (71eba21de7ef469552af926ec34f0081)] -> xpath: //select[@id='salarytype']]<br>
+2023-07-05 00:07:291 INFO  HomePage :93 - Select Job Type[[ChromeDriver: chrome on WINDOWS (71eba21de7ef469552af926ec34f0081)] -> xpath: //select[@id='tempperm']]<br>
+2023-07-05 00:07:195 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-05 00:07:859 INFO  HomePage :60 - Enter Job Title`[[ChromeDriver: chrome on WINDOWS (e09dc2233c4ec709d32cd9d6109ebde1)] -> xpath: //input[@id='keywords']]<br>
+2023-07-05 00:07:36 INFO  HomePage :65 - Enter Location: [[ChromeDriver: chrome on WINDOWS (e09dc2233c4ec709d32cd9d6109ebde1)] -> css selector: div[class='home-search hps-transition'] input[name='geo']]
+2023-07-05 00:07:506 INFO  HomePage :78 - Enter Salary Min[[ChromeDriver: chrome on WINDOWS (e09dc2233c4ec709d32cd9d6109ebde1)] -> xpath: //input[@id='salarymin']]<br>
+2023-07-05 00:07:640 INFO  HomePage :83 - Enter Salary Max[[ChromeDriver: chrome on WINDOWS (e09dc2233c4ec709d32cd9d6109ebde1)] -> xpath: //input[@id='salarymax']]<br>
+2023-07-05 00:07:752 INFO  HomePage :88 - Select Salary Type[[ChromeDriver: chrome on WINDOWS (e09dc2233c4ec709d32cd9d6109ebde1)] -> xpath: //select[@id='salarytype']]<br>
+2023-07-05 00:07:867 INFO  HomePage :93 - Select Job Type[[ChromeDriver: chrome on WINDOWS (e09dc2233c4ec709d32cd9d6109ebde1)] -> xpath: //select[@id='tempperm']]<br>
+2023-07-06 01:07:410 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-06 01:07:43 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-06 01:07:730 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-06 01:07:336 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-06 01:07:148 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-06 01:07:165 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-06 11:07:361 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-06 11:07:399 INFO  StartPage :25 - Click on Start Now Button[[ChromeDriver: chrome on WINDOWS (4b174cdddfcdac030e47ed20c16dd527)] -> xpath: //a[normalize-space()='Start now']]<br>
+2023-07-06 11:07:675 INFO  SelectNationalityPage :30 - Select Nationality: [[ChromeDriver: chrome on WINDOWS (4b174cdddfcdac030e47ed20c16dd527)] -> xpath: //select[@id='response']]
+2023-07-06 11:07:863 INFO  SelectNationalityPage :35 - Click on Continue Button[[ChromeDriver: chrome on WINDOWS (4b174cdddfcdac030e47ed20c16dd527)] -> xpath: //button[normalize-space()='Continue']]<br>
+2023-07-06 11:07:154 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-06 11:07:256 INFO  StartPage :25 - Click on Start Now Button[[ChromeDriver: chrome on WINDOWS (ed87fd07950d01caebd784585be34038)] -> xpath: //a[normalize-space()='Start now']]<br>
+2023-07-06 11:07:715 INFO  SelectNationalityPage :30 - Select Nationality: [[ChromeDriver: chrome on WINDOWS (ed87fd07950d01caebd784585be34038)] -> xpath: //select[@id='response']]
+2023-07-06 11:07:854 INFO  SelectNationalityPage :35 - Click on Continue Button[[ChromeDriver: chrome on WINDOWS (ed87fd07950d01caebd784585be34038)] -> xpath: //button[normalize-space()='Continue']]<br>
+2023-07-06 11:07:317 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-06 11:07:815 INFO  StartPage :25 - Click on Start Now Button[[ChromeDriver: chrome on WINDOWS (2b813bba63451186eb42756cf3c4c3f6)] -> xpath: //a[normalize-space()='Start now']]<br>
+2023-07-06 11:07:254 INFO  SelectNationalityPage :30 - Select Nationality: [[ChromeDriver: chrome on WINDOWS (2b813bba63451186eb42756cf3c4c3f6)] -> xpath: //select[@id='response']]
+2023-07-06 11:07:377 INFO  SelectNationalityPage :35 - Click on Continue Button[[ChromeDriver: chrome on WINDOWS (2b813bba63451186eb42756cf3c4c3f6)] -> xpath: //button[normalize-space()='Continue']]<br>
+2023-07-06 13:07:257 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-06 13:07:466 INFO  StartPage :25 - Click on Start Now Button[[ChromeDriver: chrome on WINDOWS (e6d0b28d5f8bab959be47a901bed8226)] -> xpath: //a[normalize-space()='Start now']]<br>
+2023-07-06 13:07:704 INFO  SelectNationalityPage :30 - Select Nationality: [[ChromeDriver: chrome on WINDOWS (e6d0b28d5f8bab959be47a901bed8226)] -> xpath: //select[@id='response']]
+2023-07-06 13:07:868 INFO  SelectNationalityPage :35 - Click on Continue Button[[ChromeDriver: chrome on WINDOWS (e6d0b28d5f8bab959be47a901bed8226)] -> xpath: //button[normalize-space()='Continue']]<br>
+2023-07-06 13:07:101 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-06 13:07:405 INFO  StartPage :25 - Click on Start Now Button[[ChromeDriver: chrome on WINDOWS (99b29f410ec2a840a331323b6dd4892f)] -> xpath: //a[normalize-space()='Start now']]<br>
+2023-07-06 13:07:633 INFO  SelectNationalityPage :30 - Select Nationality: [[ChromeDriver: chrome on WINDOWS (99b29f410ec2a840a331323b6dd4892f)] -> xpath: //select[@id='response']]
+2023-07-06 13:07:759 INFO  SelectNationalityPage :35 - Click on Continue Button[[ChromeDriver: chrome on WINDOWS (99b29f410ec2a840a331323b6dd4892f)] -> xpath: //button[normalize-space()='Continue']]<br>
+2023-07-06 13:07:849 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-06 13:07:341 INFO  StartPage :25 - Click on Start Now Button[[ChromeDriver: chrome on WINDOWS (0dfad1fa902fb399c8a2559f4c58912b)] -> xpath: //a[normalize-space()='Start now']]<br>
+2023-07-06 13:07:674 INFO  SelectNationalityPage :30 - Select Nationality: [[ChromeDriver: chrome on WINDOWS (0dfad1fa902fb399c8a2559f4c58912b)] -> xpath: //select[@id='response']]
+2023-07-06 13:07:792 INFO  SelectNationalityPage :35 - Click on Continue Button[[ChromeDriver: chrome on WINDOWS (0dfad1fa902fb399c8a2559f4c58912b)] -> xpath: //button[normalize-space()='Continue']]<br>
+2023-07-06 13:07:416 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-06 13:07:979 INFO  StartPage :25 - Click on Start Now Button[[ChromeDriver: chrome on WINDOWS (94b82101b48b393de1bc87e049858c57)] -> xpath: //a[normalize-space()='Start now']]<br>
+2023-07-06 13:07:200 INFO  SelectNationalityPage :30 - Select Nationality: [[ChromeDriver: chrome on WINDOWS (94b82101b48b393de1bc87e049858c57)] -> xpath: //select[@id='response']]
+2023-07-06 13:07:336 INFO  SelectNationalityPage :35 - Click on Continue Button[[ChromeDriver: chrome on WINDOWS (94b82101b48b393de1bc87e049858c57)] -> xpath: //button[normalize-space()='Continue']]<br>
+2023-07-06 13:07:527 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-06 13:07:115 INFO  StartPage :25 - Click on Start Now Button[[ChromeDriver: chrome on WINDOWS (20ebe10d5f897a6c1f77892fcd9b7461)] -> xpath: //a[normalize-space()='Start now']]<br>
+2023-07-06 13:07:345 INFO  SelectNationalityPage :30 - Select Nationality: [[ChromeDriver: chrome on WINDOWS (20ebe10d5f897a6c1f77892fcd9b7461)] -> xpath: //select[@id='response']]
+2023-07-06 13:07:462 INFO  SelectNationalityPage :35 - Click on Continue Button[[ChromeDriver: chrome on WINDOWS (20ebe10d5f897a6c1f77892fcd9b7461)] -> xpath: //button[normalize-space()='Continue']]<br>
+2023-07-06 13:07:610 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-06 13:07:32 INFO  StartPage :25 - Click on Start Now Button[[ChromeDriver: chrome on WINDOWS (a6b30ad782b2995ee25604680c9b67a0)] -> xpath: //a[normalize-space()='Start now']]<br>
+2023-07-06 13:07:265 INFO  SelectNationalityPage :30 - Select Nationality: [[ChromeDriver: chrome on WINDOWS (a6b30ad782b2995ee25604680c9b67a0)] -> xpath: //select[@id='response']]
+2023-07-06 13:07:383 INFO  SelectNationalityPage :35 - Click on Continue Button[[ChromeDriver: chrome on WINDOWS (a6b30ad782b2995ee25604680c9b67a0)] -> xpath: //button[normalize-space()='Continue']]<br>
+2023-07-06 23:07:592 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-06 23:07:966 INFO  StartPage :25 - Click on Start Now Button[[ChromeDriver: chrome on WINDOWS (e542a44b3dc5222204a65035fda56bf2)] -> xpath: //a[normalize-space()='Start now']]<br>
+2023-07-06 23:07:349 INFO  SelectNationalityPage :30 - Select Nationality: [[ChromeDriver: chrome on WINDOWS (e542a44b3dc5222204a65035fda56bf2)] -> xpath: //select[@id='response']]
+2023-07-06 23:07:590 INFO  SelectNationalityPage :35 - Click on Continue Button[[ChromeDriver: chrome on WINDOWS (e542a44b3dc5222204a65035fda56bf2)] -> xpath: //button[normalize-space()='Continue']]<br>
+2023-07-06 23:07:904 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-06 23:07:526 INFO  StartPage :25 - Click on Start Now Button[[ChromeDriver: chrome on WINDOWS (902303ff0ed2514913fe50b09103b2a6)] -> xpath: //a[normalize-space()='Start now']]<br>
+2023-07-06 23:07:45 INFO  SelectNationalityPage :30 - Select Nationality: [[ChromeDriver: chrome on WINDOWS (902303ff0ed2514913fe50b09103b2a6)] -> xpath: //select[@id='response']]
+2023-07-06 23:07:313 INFO  SelectNationalityPage :35 - Click on Continue Button[[ChromeDriver: chrome on WINDOWS (902303ff0ed2514913fe50b09103b2a6)] -> xpath: //button[normalize-space()='Continue']]<br>
+2023-07-06 23:07:954 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-06 23:07:696 INFO  StartPage :25 - Click on Start Now Button[[ChromeDriver: chrome on WINDOWS (7858ff4437eece7219a19256a4e68bd8)] -> xpath: //a[normalize-space()='Start now']]<br>
+2023-07-06 23:07:22 INFO  SelectNationalityPage :30 - Select Nationality: [[ChromeDriver: chrome on WINDOWS (7858ff4437eece7219a19256a4e68bd8)] -> xpath: //select[@id='response']]
+2023-07-06 23:07:238 INFO  SelectNationalityPage :35 - Click on Continue Button[[ChromeDriver: chrome on WINDOWS (7858ff4437eece7219a19256a4e68bd8)] -> xpath: //button[normalize-space()='Continue']]<br>
+2023-07-06 23:07:311 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-06 23:07:526 INFO  StartPage :25 - Click on Start Now Button[[ChromeDriver: chrome on WINDOWS (6fef38bb968dfa3eae406698669cff79)] -> xpath: //a[normalize-space()='Start now']]<br>
+2023-07-06 23:07:832 INFO  SelectNationalityPage :30 - Select Nationality: [[ChromeDriver: chrome on WINDOWS (6fef38bb968dfa3eae406698669cff79)] -> xpath: //select[@id='response']]
+2023-07-06 23:07:35 INFO  SelectNationalityPage :35 - Click on Continue Button[[ChromeDriver: chrome on WINDOWS (6fef38bb968dfa3eae406698669cff79)] -> xpath: //button[normalize-space()='Continue']]<br>
+2023-07-06 23:07:405 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-06 23:07:65 INFO  StartPage :25 - Click on Start Now Button[[ChromeDriver: chrome on WINDOWS (48854f7fd78691bf950867129668df96)] -> xpath: //a[normalize-space()='Start now']]<br>
+2023-07-06 23:07:353 INFO  SelectNationalityPage :30 - Select Nationality: [[ChromeDriver: chrome on WINDOWS (48854f7fd78691bf950867129668df96)] -> xpath: //select[@id='response']]
+2023-07-06 23:07:523 INFO  SelectNationalityPage :35 - Click on Continue Button[[ChromeDriver: chrome on WINDOWS (48854f7fd78691bf950867129668df96)] -> xpath: //button[normalize-space()='Continue']]<br>
+2023-07-06 23:07:776 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-06 23:07:383 INFO  StartPage :25 - Click on Start Now Button[[ChromeDriver: chrome on WINDOWS (87677c0b140a69008961f4372b29bce1)] -> xpath: //a[normalize-space()='Start now']]<br>
+2023-07-06 23:07:707 INFO  SelectNationalityPage :30 - Select Nationality: [[ChromeDriver: chrome on WINDOWS (87677c0b140a69008961f4372b29bce1)] -> xpath: //select[@id='response']]
+2023-07-06 23:07:872 INFO  SelectNationalityPage :35 - Click on Continue Button[[ChromeDriver: chrome on WINDOWS (87677c0b140a69008961f4372b29bce1)] -> xpath: //button[normalize-space()='Continue']]<br>
+2023-07-06 23:07:610 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-06 23:07:801 INFO  StartPage :25 - Click on Start Now Button[[ChromeDriver: chrome on WINDOWS (4fd7db77c461f2000253bd6bc8f94c56)] -> xpath: //a[normalize-space()='Start now']]<br>
+2023-07-06 23:07:201 INFO  SelectNationalityPage :30 - Select Nationality: [[ChromeDriver: chrome on WINDOWS (4fd7db77c461f2000253bd6bc8f94c56)] -> xpath: //select[@id='response']]
+2023-07-06 23:07:447 INFO  SelectNationalityPage :35 - Click on Continue Button[[ChromeDriver: chrome on WINDOWS (4fd7db77c461f2000253bd6bc8f94c56)] -> xpath: //button[normalize-space()='Continue']]<br>
+2023-07-06 23:07:966 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-06 23:07:371 INFO  StartPage :25 - Click on Start Now Button[[ChromeDriver: chrome on WINDOWS (f2a81ee0112ab1f24bcf831e9ac284a9)] -> xpath: //a[normalize-space()='Start now']]<br>
+2023-07-06 23:07:760 INFO  SelectNationalityPage :30 - Select Nationality: [[ChromeDriver: chrome on WINDOWS (f2a81ee0112ab1f24bcf831e9ac284a9)] -> xpath: //select[@id='response']]
+2023-07-06 23:07:937 INFO  SelectNationalityPage :35 - Click on Continue Button[[ChromeDriver: chrome on WINDOWS (f2a81ee0112ab1f24bcf831e9ac284a9)] -> xpath: //button[normalize-space()='Continue']]<br>
+2023-07-06 23:07:499 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-06 23:07:970 INFO  StartPage :25 - Click on Start Now Button[[ChromeDriver: chrome on WINDOWS (d1940aa45920794cf0bbe3665b74032f)] -> xpath: //a[normalize-space()='Start now']]<br>
+2023-07-06 23:07:370 INFO  SelectNationalityPage :30 - Select Nationality: [[ChromeDriver: chrome on WINDOWS (d1940aa45920794cf0bbe3665b74032f)] -> xpath: //select[@id='response']]
+2023-07-06 23:07:568 INFO  SelectNationalityPage :35 - Click on Continue Button[[ChromeDriver: chrome on WINDOWS (d1940aa45920794cf0bbe3665b74032f)] -> xpath: //button[normalize-space()='Continue']]<br>
+2023-07-06 23:07:93 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-06 23:07:528 INFO  StartPage :25 - Click on Start Now Button[[ChromeDriver: chrome on WINDOWS (780612a4ede853fdf0285e4e0fbda118)] -> xpath: //a[normalize-space()='Start now']]<br>
+2023-07-06 23:07:796 INFO  SelectNationalityPage :30 - Select Nationality: [[ChromeDriver: chrome on WINDOWS (780612a4ede853fdf0285e4e0fbda118)] -> xpath: //select[@id='response']]
+2023-07-06 23:07:23 INFO  SelectNationalityPage :35 - Click on Continue Button[[ChromeDriver: chrome on WINDOWS (780612a4ede853fdf0285e4e0fbda118)] -> xpath: //button[normalize-space()='Continue']]<br>
+2023-07-06 23:07:607 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-06 23:07:46 INFO  StartPage :25 - Click on Start Now Button[[ChromeDriver: chrome on WINDOWS (3610fb22069610afa3e00fc095f0e139)] -> xpath: //a[normalize-space()='Start now']]<br>
+2023-07-06 23:07:402 INFO  SelectNationalityPage :30 - Select Nationality: [[ChromeDriver: chrome on WINDOWS (3610fb22069610afa3e00fc095f0e139)] -> xpath: //select[@id='response']]
+2023-07-06 23:07:614 INFO  SelectNationalityPage :35 - Click on Continue Button[[ChromeDriver: chrome on WINDOWS (3610fb22069610afa3e00fc095f0e139)] -> xpath: //button[normalize-space()='Continue']]<br>
+2023-07-06 23:07:172 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-06 23:07:602 INFO  StartPage :25 - Click on Start Now Button[[ChromeDriver: chrome on WINDOWS (32fee51cf23eebe4216954c71929eb12)] -> xpath: //a[normalize-space()='Start now']]<br>
+2023-07-06 23:07:33 INFO  SelectNationalityPage :30 - Select Nationality: [[ChromeDriver: chrome on WINDOWS (32fee51cf23eebe4216954c71929eb12)] -> xpath: //select[@id='response']]
+2023-07-06 23:07:268 INFO  SelectNationalityPage :35 - Click on Continue Button[[ChromeDriver: chrome on WINDOWS (32fee51cf23eebe4216954c71929eb12)] -> xpath: //button[normalize-space()='Continue']]<br>
+2023-07-07 00:07:659 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-07 00:07:542 INFO  StartPage :25 - Click on Start Now Button[[ChromeDriver: chrome on WINDOWS (470da5c396d9eb2b34d1b757fcd80fd3)] -> xpath: //a[normalize-space()='Start now']]<br>
+2023-07-07 00:07:888 INFO  SelectNationalityPage :30 - Select Nationality: [[ChromeDriver: chrome on WINDOWS (470da5c396d9eb2b34d1b757fcd80fd3)] -> xpath: //select[@id='response']]
+2023-07-07 00:07:88 INFO  SelectNationalityPage :35 - Click on Continue Button[[ChromeDriver: chrome on WINDOWS (470da5c396d9eb2b34d1b757fcd80fd3)] -> xpath: //button[normalize-space()='Continue']]<br>
+2023-07-07 00:07:422 INFO  ReasonForTravelPage :53 - select product : [[[ChromeDriver: chrome on WINDOWS (470da5c396d9eb2b34d1b757fcd80fd3)] -> xpath: //div[@class='govuk-radios']/div], [[ChromeDriver: chrome on WINDOWS (470da5c396d9eb2b34d1b757fcd80fd3)] -> xpath: //div[@class='govuk-radios']/div], [[ChromeDriver: chrome on WINDOWS (470da5c396d9eb2b34d1b757fcd80fd3)] -> xpath: //div[@class='govuk-radios']/div], [[ChromeDriver: chrome on WINDOWS (470da5c396d9eb2b34d1b757fcd80fd3)] -> xpath: //div[@class='govuk-radios']/div], [[ChromeDriver: chrome on WINDOWS (470da5c396d9eb2b34d1b757fcd80fd3)] -> xpath: //div[@class='govuk-radios']/div], [[ChromeDriver: chrome on WINDOWS (470da5c396d9eb2b34d1b757fcd80fd3)] -> xpath: //div[@class='govuk-radios']/div], [[ChromeDriver: chrome on WINDOWS (470da5c396d9eb2b34d1b757fcd80fd3)] -> xpath: //div[@class='govuk-radios']/div], [[ChromeDriver: chrome on WINDOWS (470da5c396d9eb2b34d1b757fcd80fd3)] -> xpath: //div[@class='govuk-radios']/div], [[ChromeDriver: chrome on WINDOWS (470da5c396d9eb2b34d1b757fcd80fd3)] -> xpath: //div[@class='govuk-radios']/div]]
+2023-07-07 00:07:692 INFO  SelectNationalityPage :35 - Click on Continue Button[[ChromeDriver: chrome on WINDOWS (470da5c396d9eb2b34d1b757fcd80fd3)] -> xpath: //button[normalize-space()='Continue']]<br>
+2023-07-07 00:07:958 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-07 00:07:383 INFO  StartPage :25 - Click on Start Now Button[[ChromeDriver: chrome on WINDOWS (b3929a4805a5e3cf98e14667c149244f)] -> xpath: //a[normalize-space()='Start now']]<br>
+2023-07-07 00:07:736 INFO  SelectNationalityPage :30 - Select Nationality: [[ChromeDriver: chrome on WINDOWS (b3929a4805a5e3cf98e14667c149244f)] -> xpath: //select[@id='response']]
+2023-07-07 00:07:959 INFO  SelectNationalityPage :35 - Click on Continue Button[[ChromeDriver: chrome on WINDOWS (b3929a4805a5e3cf98e14667c149244f)] -> xpath: //button[normalize-space()='Continue']]<br>
+2023-07-07 00:07:247 INFO  ReasonForTravelPage :53 - select product : [[[ChromeDriver: chrome on WINDOWS (b3929a4805a5e3cf98e14667c149244f)] -> xpath: //div[@class='govuk-radios']/div], [[ChromeDriver: chrome on WINDOWS (b3929a4805a5e3cf98e14667c149244f)] -> xpath: //div[@class='govuk-radios']/div], [[ChromeDriver: chrome on WINDOWS (b3929a4805a5e3cf98e14667c149244f)] -> xpath: //div[@class='govuk-radios']/div], [[ChromeDriver: chrome on WINDOWS (b3929a4805a5e3cf98e14667c149244f)] -> xpath: //div[@class='govuk-radios']/div], [[ChromeDriver: chrome on WINDOWS (b3929a4805a5e3cf98e14667c149244f)] -> xpath: //div[@class='govuk-radios']/div], [[ChromeDriver: chrome on WINDOWS (b3929a4805a5e3cf98e14667c149244f)] -> xpath: //div[@class='govuk-radios']/div], [[ChromeDriver: chrome on WINDOWS (b3929a4805a5e3cf98e14667c149244f)] -> xpath: //div[@class='govuk-radios']/div], [[ChromeDriver: chrome on WINDOWS (b3929a4805a5e3cf98e14667c149244f)] -> xpath: //div[@class='govuk-radios']/div], [[ChromeDriver: chrome on WINDOWS (b3929a4805a5e3cf98e14667c149244f)] -> xpath: //div[@class='govuk-radios']/div]]
+2023-07-07 00:07:516 INFO  SelectNationalityPage :35 - Click on Continue Button[[ChromeDriver: chrome on WINDOWS (b3929a4805a5e3cf98e14667c149244f)] -> xpath: //button[normalize-space()='Continue']]<br>
+2023-07-07 00:07:934 INFO  SelectNationalityPage :35 - Click on Continue Button[[ChromeDriver: chrome on WINDOWS (b3929a4805a5e3cf98e14667c149244f)] -> xpath: //button[normalize-space()='Continue']]<br>
+2023-07-07 00:07:280 INFO  ReasonForTravelPage :65 - select longer then 6 month radio button : [[[ChromeDriver: chrome on WINDOWS (b3929a4805a5e3cf98e14667c149244f)] -> xpath: //fieldset[@class='govuk-fieldset']/div[@class='govuk-radios']/div/label], [[ChromeDriver: chrome on WINDOWS (b3929a4805a5e3cf98e14667c149244f)] -> xpath: //fieldset[@class='govuk-fieldset']/div[@class='govuk-radios']/div/label], [[ChromeDriver: chrome on WINDOWS (b3929a4805a5e3cf98e14667c149244f)] -> xpath: //fieldset[@class='govuk-fieldset']/div[@class='govuk-radios']/div/label], [[ChromeDriver: chrome on WINDOWS (b3929a4805a5e3cf98e14667c149244f)] -> xpath: //fieldset[@class='govuk-fieldset']/div[@class='govuk-radios']/div/label], [[ChromeDriver: chrome on WINDOWS (b3929a4805a5e3cf98e14667c149244f)] -> xpath: //fieldset[@class='govuk-fieldset']/div[@class='govuk-radios']/div/label], [[ChromeDriver: chrome on WINDOWS (b3929a4805a5e3cf98e14667c149244f)] -> xpath: //fieldset[@class='govuk-fieldset']/div[@class='govuk-radios']/div/label], [[ChromeDriver: chrome on WINDOWS (b3929a4805a5e3cf98e14667c149244f)] -> xpath: //fieldset[@class='govuk-fieldset']/div[@class='govuk-radios']/div/label], [[ChromeDriver: chrome on WINDOWS (b3929a4805a5e3cf98e14667c149244f)] -> xpath: //fieldset[@class='govuk-fieldset']/div[@class='govuk-radios']/div/label]]
+2023-07-07 00:07:482 INFO  SelectNationalityPage :35 - Click on Continue Button[[ChromeDriver: chrome on WINDOWS (b3929a4805a5e3cf98e14667c149244f)] -> xpath: //button[normalize-space()='Continue']]<br>
+2023-07-07 00:07:716 INFO  ManageBrowser :33 - launching chrome browser
+2023-07-07 00:07:571 INFO  StartPage :25 - Click on Start Now Button[[ChromeDriver: chrome on WINDOWS (0b64924599b3d58858bb4f0f1c1d8ab3)] -> xpath: //a[normalize-space()='Start now']]<br>
+2023-07-07 00:07:979 INFO  SelectNationalityPage :30 - Select Nationality: [[ChromeDriver: chrome on WINDOWS (0b64924599b3d58858bb4f0f1c1d8ab3)] -> xpath: //select[@id='response']]
+2023-07-07 00:07:176 INFO  SelectNationalityPage :35 - Click on Continue Button[[ChromeDriver: chrome on WINDOWS (0b64924599b3d58858bb4f0f1c1d8ab3)] -> xpath: //button[normalize-space()='Continue']]<br>
+2023-07-07 00:07:537 INFO  ReasonForTravelPage :53 - select product : [[[ChromeDriver: chrome on WINDOWS (0b64924599b3d58858bb4f0f1c1d8ab3)] -> xpath: //div[@class='govuk-radios']/div], [[ChromeDriver: chrome on WINDOWS (0b64924599b3d58858bb4f0f1c1d8ab3)] -> xpath: //div[@class='govuk-radios']/div], [[ChromeDriver: chrome on WINDOWS (0b64924599b3d58858bb4f0f1c1d8ab3)] -> xpath: //div[@class='govuk-radios']/div], [[ChromeDriver: chrome on WINDOWS (0b64924599b3d58858bb4f0f1c1d8ab3)] -> xpath: //div[@class='govuk-radios']/div], [[ChromeDriver: chrome on WINDOWS (0b64924599b3d58858bb4f0f1c1d8ab3)] -> xpath: //div[@class='govuk-radios']/div], [[ChromeDriver: chrome on WINDOWS (0b64924599b3d58858bb4f0f1c1d8ab3)] -> xpath: //div[@class='govuk-radios']/div], [[ChromeDriver: chrome on WINDOWS (0b64924599b3d58858bb4f0f1c1d8ab3)] -> xpath: //div[@class='govuk-radios']/div], [[ChromeDriver: chrome on WINDOWS (0b64924599b3d58858bb4f0f1c1d8ab3)] -> xpath: //div[@class='govuk-radios']/div], [[ChromeDriver: chrome on WINDOWS (0b64924599b3d58858bb4f0f1c1d8ab3)] -> xpath: //div[@class='govuk-radios']/div]]
+2023-07-07 00:07:864 INFO  SelectNationalityPage :35 - Click on Continue Button[[ChromeDriver: chrome on WINDOWS (0b64924599b3d58858bb4f0f1c1d8ab3)] -> xpath: //button[normalize-space()='Continue']]<br>
